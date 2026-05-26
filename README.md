@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cauê Bertholdi 
 
-🚀 **Studying computer engineering**  
+**Studying computer engineering**  
 🇧🇷 Brazil
 
 ---
