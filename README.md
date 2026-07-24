@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-cauethll-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/cauethll">
-    <img src="https://img.shields.io/badge/Instagram-@cauethll-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@cryzthll-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   </a>
   </a>
