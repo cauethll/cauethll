@@ -8,8 +8,8 @@
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/cbertholdi__">
-    <img src="https://img.shields.io/badge/GitHub-cbertholdi__-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/cauethll">
+    <img src="https://img.shields.io/badge/GitHub-cauethll-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/cbertholdi__">
     <img src="https://img.shields.io/badge/Instagram-@cbertholdi__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
